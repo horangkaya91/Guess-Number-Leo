@@ -1,0 +1,6 @@
+{
+    "program": "guess_number.aleo",
+    "version": "0.0.0",
+    "description": "This Leo program implements a simple guessing game. The player can start the game, which generates a secret number between 1 and 100 (inclusive). The player can then use the 'guess_number' transition to make guesses and receive feedback. The program provides a fun and interactive way for users to guess the secret number by horangkaya91",
+    "license": "MIT"
+}
